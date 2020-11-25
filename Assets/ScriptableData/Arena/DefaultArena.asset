@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8b9e227b0c07541933c8af2825005c, type: 3}
+  m_Name: DefaultArena
+  m_EditorClassIdentifier: 
+  name: Default Arena
+  backgroundImage: {fileID: 21300000, guid: a0eaeb19b91fc934898da6baf5520c3c, type: 3}

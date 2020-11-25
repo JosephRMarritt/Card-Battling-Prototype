@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7e86085ca5931747b0647030a16e226, type: 3}
+  m_Name: Battle01
+  m_EditorClassIdentifier: 
+  arena: {fileID: 11400000, guid: 10c674141b011a14d92e89b78006fd03, type: 2}
+  players:
+  - {fileID: 11400000, guid: 74e32b56e83cb0d498370681b78b5732, type: 2}
+  opponents:
+  - {fileID: 11400000, guid: 74e32b56e83cb0d498370681b78b5732, type: 2}
