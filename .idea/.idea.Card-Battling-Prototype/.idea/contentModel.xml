@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Josep\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Josep\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Card-Battling-Prototype.-985002232.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Josep\OneDrive\Documents\Unity - Projects\Card-Battling-Prototype" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Battle" t="Include">
+            <e p="BattleInstance.cs" t="Include" />
+          </e>
+          <e p="Cards" t="Include">
+            <e p="CardCommand.cs" t="Include" />
+            <e p="CardInstance.cs" t="Include" />
+          </e>
+          <e p="Character" t="Include">
+            <e p="CharacterInstance.cs" t="Include" />
+            <e p="StatsInstance.cs" t="Include" />
+          </e>
+          <e p="Core" t="Include">
+            <e p="App.cs" t="Include" />
+          </e>
+          <e p="Map" t="Include">
+            <e p="MapInstance.cs" t="Include" />
+            <e p="WorldNode.cs" t="Include" />
+            <e p="WorldNodeInstance.cs" t="Include" />
+          </e>
+          <e p="ScriptableObject" t="Include">
+            <e p="Arena.cs" t="Include" />
+            <e p="Battle.cs" t="Include" />
+            <e p="Card.cs" t="Include" />
+            <e p="Character.cs" t="Include" />
+            <e p="Command.cs" t="Include" />
+            <e p="Effect.cs" t="Include" />
+            <e p="GameEvent.cs" t="Include" />
+            <e p="GameEventListener.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+            <e p="RoundEffector.cs" t="Include" />
+            <e p="Stats.cs" t="Include" />
+            <e p="TargettingBehaviour.cs" t="Include" />
+            <e p="WorldMap.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="BattleUI.cs" t="Include" />
+          </e>
+          <e p="Utility" t="Include">
+            <e p="Enums.cs" t="Include" />
+            <e p="EventsController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Card-Battling-Prototype.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
