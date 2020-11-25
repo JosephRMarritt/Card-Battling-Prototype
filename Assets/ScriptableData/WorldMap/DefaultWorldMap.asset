@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcce94e50cdb6c14fb91bc9d9ff0a195, type: 3}
+  m_Name: DefaultWorldMap
+  m_EditorClassIdentifier: 
+  name: Default World Map
+  worldMapSprite: {fileID: 21300000, guid: c9677b41d30ea774eae59a6f01c570be, type: 3}
+  worldNodes:
+  - name: Battle1
+    levelSelectOrder: 1
+    worldNodeSprite: {fileID: 21300000, guid: 40aa930855e6ba849a9e1e4a5abda187, type: 3}
+    position: {x: 750, y: 500}
+    battle: {fileID: 11400000, guid: c158a7b9974d7e843b865f201fbc7012, type: 2}
+  - name: Battle2
+    levelSelectOrder: 2
+    worldNodeSprite: {fileID: 21300000, guid: 40aa930855e6ba849a9e1e4a5abda187, type: 3}
+    position: {x: 1000, y: 750}
+    battle: {fileID: 11400000, guid: c158a7b9974d7e843b865f201fbc7012, type: 2}
